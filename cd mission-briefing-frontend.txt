@@ -1,0 +1,1 @@
+cd mission-briefing-frontend
